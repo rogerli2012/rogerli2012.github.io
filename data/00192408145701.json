@@ -1,0 +1,30 @@
+{
+  "gtin": "00035000969798",
+  "brandName": [{
+    "lang": "en",
+    "value": "IRISH SPRING"
+  }],
+  "gpcCode": "10000330",
+  "netContent": [{
+    "quantity": 18.0,
+    "measurementUnitCode": "OZA"
+  }],
+  "targetMarketCountryCode": ["US"],
+  "tradeItemDescription": [{
+    "lang": "en",
+    "value": "IRISH SPRING IRISH SPRING BW BODY WASH IR SPR BLACK MINT BW-SG"
+  }]
+  "tradeItemImageUrl": [{
+    "lang": "en",
+    "value": "https://dam.catalog.1worldsync.com/im/dwn/GCP-6310432990035968"
+  }],
+  "dateCreated": "2019-10-25T14:23:17Z",
+  "dateUpdated": "2021-05-29-T21:45:24.4835177Z",
+  "license": {
+    "key": "0035000",
+    "type": "GCP",
+    "companyName": "Colgate-Palmolive Company"
+  },
+  "moName": "GS1 US",
+  "complete": true
+}

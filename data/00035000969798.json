@@ -1,0 +1,61 @@
+{
+  "product": {
+    "Id": 20275799,
+    "CompanyName": "ALL 4 U LLC",
+    "CompanyURI": "/company/v3/company/GLN/0192408000000",
+    "Prefix": "0192408",
+    "GTIN": "00192408145701",
+    "GTIN13": "",
+    "GTIN12": "192408145701",
+    "PackagingLevel": "Each",
+    "Industry": "General",
+    "EntityGLN": "0192408000000",
+    "ProductDescription": "USS Widgeon ASR-1 License Plate Frame",
+    "ProductDescriptionLanguage1": "en",
+    "ProductDescription2": "",
+    "ProductDescriptionLanguage2": "",
+    "SKU": "LSFASR-1",
+    "BrandName": "MilitaryBest",
+    "BrandNameLanguage1": "en",
+    "BrandName2": "",
+    "BrandNameLanguage2": "",
+    "Status": "In Use",
+    "IsVariable": false,
+    "IsPurchasable": false,
+    "Dimensions": {
+      "Height": null,
+      "Width": null,
+      "Depth": null,
+      "DimensionMeasure": ""
+    },
+    "Weight": {
+      "GrossWeight": null,
+      "NetWeight": null,
+      "WeightMeasure": ""
+    },
+    "Comments": null,
+    "TargetMarket": [],
+    "ChildGTINs": null,
+    "Quantity": null,
+    "SubBrandName": "",
+    "ProductDescriptionShort": "",
+    "LabelDescription": "",
+    "NetPackageContent": {
+      "NetContent1Count": "",
+      "NetContent1UnitOfMeasure": "",
+      "NetContent2Count": "",
+      "NetContent2UnitOfMeasure": "",
+      "NetContent3Count": "",
+      "NetContent3UnitOfMeasure": ""
+    },
+    "GlobalProductClassification": "",
+    "ImageURL": "",
+    "Ancestors": [],
+    "Descendants": [],
+    "IsEnhanced": "",
+    "ModifiedDate": "2017-10-10T21:07:24.5700000Z"
+  },
+  "messages": [],
+  "responseCode": "VB0001",
+  "responseMessage": "Product lookup is successful"
+}
