@@ -1,61 +1,30 @@
 {
-  "product": {
-    "Id": 20275799,
-    "CompanyName": "ALL 4 U LLC",
-    "CompanyURI": "/company/v3/company/GLN/0192408000000",
-    "Prefix": "0192408",
-    "GTIN": "00192408145701",
-    "GTIN13": "",
-    "GTIN12": "192408145701",
-    "PackagingLevel": "Each",
-    "Industry": "General",
-    "EntityGLN": "0192408000000",
-    "ProductDescription": "USS Widgeon ASR-1 License Plate Frame",
-    "ProductDescriptionLanguage1": "en",
-    "ProductDescription2": "",
-    "ProductDescriptionLanguage2": "",
-    "SKU": "LSFASR-1",
-    "BrandName": "MilitaryBest",
-    "BrandNameLanguage1": "en",
-    "BrandName2": "",
-    "BrandNameLanguage2": "",
-    "Status": "In Use",
-    "IsVariable": false,
-    "IsPurchasable": false,
-    "Dimensions": {
-      "Height": null,
-      "Width": null,
-      "Depth": null,
-      "DimensionMeasure": ""
-    },
-    "Weight": {
-      "GrossWeight": null,
-      "NetWeight": null,
-      "WeightMeasure": ""
-    },
-    "Comments": null,
-    "TargetMarket": [],
-    "ChildGTINs": null,
-    "Quantity": null,
-    "SubBrandName": "",
-    "ProductDescriptionShort": "",
-    "LabelDescription": "",
-    "NetPackageContent": {
-      "NetContent1Count": "",
-      "NetContent1UnitOfMeasure": "",
-      "NetContent2Count": "",
-      "NetContent2UnitOfMeasure": "",
-      "NetContent3Count": "",
-      "NetContent3UnitOfMeasure": ""
-    },
-    "GlobalProductClassification": "",
-    "ImageURL": "",
-    "Ancestors": [],
-    "Descendants": [],
-    "IsEnhanced": "",
-    "ModifiedDate": "2017-10-10T21:07:24.5700000Z"
+  "gtin": "00035000969798",
+  "brandName": [{
+    "lang": "en",
+    "value": "IRISH SPRING"
+  }],
+  "gpcCode": "10000330",
+  "netContent": [{
+    "quantity": 18.0,
+    "measurementUnitCode": "OZA"
+  }],
+  "targetMarketCountryCode": ["US"],
+  "tradeItemDescription": [{
+    "lang": "en",
+    "value": "IRISH SPRING IRISH SPRING BW BODY WASH IR SPR BLACK MINT BW-SG"
+  }],
+  "tradeItemImageUrl": [{
+    "lang": "en",
+    "value": "https://dam.catalog.1worldsync.com/im/dwn/GCP-6310432990035968"
+  }],
+  "dateCreated": "2019-10-25T14:23:17Z",
+  "dateUpdated": "2021-05-29-T21:45:24.4835177Z",
+  "license": {
+    "key": "0035000",
+    "type": "GCP",
+    "companyName": "Colgate-Palmolive Company"
   },
-  "messages": [],
-  "responseCode": "VB0001",
-  "responseMessage": "Product lookup is successful"
+  "moName": "GS1 US",
+  "complete": true
 }
